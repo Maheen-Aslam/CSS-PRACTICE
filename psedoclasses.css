@@ -1,0 +1,73 @@
+body{
+    background-color: rgb(231, 242, 244);
+}
+p{
+    text-align: center;
+}
+h1{
+    text-align: center;
+    text-decoration: underline;
+    text-shadow: 2em;
+}
+img{
+   height: 200px;
+   width:100;
+}
+a:link {
+    color: #FF0000;
+  }
+  
+
+a:visited {
+    color: #00d0ff;
+  }
+  
+
+a:hover {
+    color: #0000ff;
+  }
+  
+
+a:active {
+    color: #00eeff;
+  }
+table{
+    text-align: center;
+    border-style: solid;
+}
+.first-continer{
+    border:rgb(255, 251, 251);
+    padding-left: 200px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-top: 0px; 
+}
+.cloud1{
+    position:relative;
+    padding-left: 600px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-top: 0px; 
+}
+.cloud2{
+    position:relative;
+    padding-left: 100px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-top: 50px; 
+}
+cloud3{
+    position:relative;
+    padding-left: 600px;
+    padding-right: 0px;
+    padding-bottom: 20px;
+    padding-top: 0px; 
+    display: inline-block;
+}
+.sun{
+    border: hidden;
+    padding-left: 0px;
+    padding-right: 600px;
+    padding-top: 0px;
+    padding-bottom: auto;
+}

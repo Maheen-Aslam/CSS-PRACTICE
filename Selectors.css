@@ -1,0 +1,32 @@
+/*UNIVERSAL SELECTORS*/
+*{
+    background-color: azure;
+    word-spacing: 2px;
+}
+/* CLASS SELECTOR */
+.Paragraph1{
+    border: 2px rgb(27, 237, 240) double;
+    /* for all sides left right top bottom*/
+    padding: 2px;
+    width: 400px;
+
+}
+.Paragraph2{
+    border: 2px rgb(27, 237, 240) double;
+    /* for all sides left right top bottom*/
+    padding: 2px;
+    width: 400px;
+}
+.Paragraph3{
+    border: 2px rgb(27, 237, 240) double;
+    /* for all sides left right top bottom*/
+    padding: 2px;
+    width: 400px;
+}
+/*ID SELECTOR*/
+#orderedList{
+    text-align:left;
+    border: 2px rgb(21, 135, 135) double;
+    text-size-adjust: 2px;
+    
+}
